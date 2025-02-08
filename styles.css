@@ -40,6 +40,7 @@ body {
   margin-right: calc(var(--width) / -2);
   z-index: 2;
 }
+
 .white.active {
     background-color: #ccc;
   }
